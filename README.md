@@ -3,8 +3,8 @@ AFKick plugin.
 Kicks players that are afk.  
 This is a modified/updated version of https://github.com/J-VdS/DiscordPlugin
 ### Downloading a Jar
-1) go to [releases](https://github.com/L0615T1C5-216AC-9437/afk-cn/releases) and download latest version, (not recommended to use pre-releases)
-2) follow [#Installing](https://github.com/L0615T1C5-216AC-9437/afk0-cn/blob/master/README.md#installing)
+1) go to [releases](https://github.com/L0615T1C5-216AC-9437/discord-cn/releases) and download latest version, (not recommended to use pre-releases)
+2) follow [#Installing](https://github.com/L0615T1C5-216AC-9437/discord-cn/blob/master/README.md#installing)
 
 ### Building a Jar
 
