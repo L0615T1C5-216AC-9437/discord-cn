@@ -76,11 +76,6 @@ public class Main extends Plugin {
         handler.register("database-clear", "generates the default async.cn file", arg -> {
             if (byteCode.makeDefault())  Log.info("Generated new database.cn");
         });
-        handler.register("crashmyserver", "crash my server cuz y not", arg -> {
-            String[] strings = new String[5];
-            strings[1].toLowerCase().replaceFirst("a", "").trim().substring(1);
-            Log.info(strings[1]);
-        });
     }
     public void registerClientCommands(CommandHandler handler) {
 
