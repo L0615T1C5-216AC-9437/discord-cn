@@ -22,7 +22,7 @@ public class admin implements MessageCreateListener {
     }
     @Override
     public void onMessageCreate(MessageCreateEvent event) {
-        String[] message = event.getMessageContent().split(" ", 1);
+        String[] message = event.getMessageContent().split(" ", 2);
         String command = message[0];
 
         byteCode.assertCore();
